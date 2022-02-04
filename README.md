@@ -7,5 +7,3 @@ texts.
 Natural language processing (NLP) refers back to the branch of laptop science—and more specifically, the branch of synthetic intelligence or AI—concerned with giving computers the 
 capability to understand textual content and spoken phrases in lots the equal way human beings can.
 Sub – domain Open-domain Question Answering
-![image](https://user-images.githubusercontent.com/86097201/152466607-68359113-a092-4a76-80e8-9c9a49e571a0.png)
-
